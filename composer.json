@@ -25,7 +25,8 @@
         "filament/forms": "^3.0",
         "filament/tables": "^3.0",
         "spatie/laravel-package-tools": "^1.15.0",
-        "illuminate/contracts": "^10.0"
+        "illuminate/contracts": "^10.0",
+        "omnia-digital/catalyst-core-plugin": "dev-main"
     },
     "require-dev": {
         "laravel/pint": "^1.0",
